@@ -1,0 +1,1 @@
+I searched about "type casting" in php to convert from string to integer
